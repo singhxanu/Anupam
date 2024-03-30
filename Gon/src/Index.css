@@ -1,0 +1,60 @@
+body{
+    margin :0;
+    padding: 0;
+}
+.dh1 {
+    margin: 0px 0px ;
+}
+
+
+.my-nav{
+    /* color :transparent; */
+
+    font-weight: 500;
+    padding: 0px 0px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.1);
+    background-image: src="";
+
+}
+.my-nav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+.card{
+    width: 18rem ;
+    overflow: hidden;
+
+}
+.card-cont{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 25px;
+}
+.c-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+
+}
+.my-footer {
+    margin-top: 25px;
+    width: 100%;
+    height: 300px;
+
+}
+.my-nav a{
+    color: white;
+}
+
+.f-clr{
+    color: white;
+}
+.main-footer {
+    margin-bottom: 0px;
+    
+}
